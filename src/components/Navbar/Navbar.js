@@ -11,13 +11,13 @@ export default function Navbar() {
       </div>
       <div className={styles.linksCont}>
         <Link to="/docs" className={styles.links}>
-          Docs
+          Tutorial
         </Link>
         <Link to="/docs" className={styles.links}>
-          Resources
+          Github
         </Link>
-        <Link to="/" className={styles.links}>
-          Tutorial
+        <Link to="/docs" className={styles.links}>
+          Npm
         </Link>
       </div>
       <div className={styles.version}>
