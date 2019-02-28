@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Talko.io",
+  "name": "Talko.io - A live support chat package",
   "icons": [
     {
       "src": "favicon.ico",
