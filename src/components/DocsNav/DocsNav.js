@@ -9,14 +9,17 @@ export default function DocsNav() {
         <Link to="/" className={styles.links}>
           Home
         </Link>
-        <Link to="/" className={styles.links}>
-          Home
+        <Link
+          to="https://github.com/live-chat-npm/talko/"
+          className={styles.links}
+        >
+          Github
         </Link>
-        <Link to="/" className={styles.links}>
-          Home
-        </Link>
-        <Link to="/" className={styles.links}>
-          Home
+        <Link
+          to="https://www.npmjs.com/package/talko-react"
+          className={styles.links}
+        >
+          Npm
         </Link>
       </div>
     </div>
